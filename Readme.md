@@ -6,11 +6,11 @@ Willkommen in der zentralen Wissensdatenbank zur Vorbereitung auf die Abschlussp
 
 Dieses Repository deckt die Kern- und Fachqualifikationen für folgende Berufe ab:
 
-    FISI (Fachinformatiker für Systemintegration)
+- FISI (Fachinformatiker für Systemintegration)
 
-    AE (Fachinformatiker für Anwendungsentwicklung)
+- AE (Fachinformatiker für Anwendungsentwicklung)
 
-    DPA (Fachinformatiker für Daten- und Prozessanalyse)
+- DPA (Fachinformatiker für Daten- und Prozessanalyse)
 
 ## Struktur der Sammlung
 
