@@ -14,13 +14,13 @@ Dieses Repository deckt die Kern- und Fachqualifikationen für folgende Berufe a
 
 ## Struktur der Sammlung
 
-Das Repository ist so aufgebaut, dass sowohl berufsspezifische als auch übergreifende Themen schnell gefunden werden:
+
 | Bereich | Fokus-Themen |
 | :--- | :--- |
-| **Systemintegration** | Infrastruktur, Cloud, Routing, Hardware, Sicherheit. |
-| **Anwendungsentwicklung** | Software-Architektur, Datenbankdesign (SQL), Testing, Clean Code. |
-| **Daten- & Prozessanalyse** | Datenquellen, Big Data, Prozessmodellierung, Statistik. |
-| **Kernqualifikationen** | WiSo, Projektmanagement, IT-Sicherheit, Datenschutz (für alle gleich). |
+| **Systemintegration (FISI)** | Infrastruktur, Cloud, Routing, Hardware, Sicherheit. |
+| **Anwendungsentwicklung (FIAE)** | Software-Architektur, Datenbankdesign (SQL), Testing, Clean Code. |
+| **Daten- & Prozessanalyse (DPA)** | Datenquellen, Big Data, Prozessmodellierung, Statistik. |
+| **Kernqualifikationen (WISO)** | Projektmanagement, IT-Sicherheit, Datenschutz (für alle gleich). |
 
 ## How to Use: So stellst du deine Simulation zusammen
 
@@ -31,7 +31,7 @@ Navigiere in den Ordner deines Fachbereichs und wähle die passende Verordnung:
 
 - Neue VO (ab Winter 2021): Fokus auf die neue Struktur mit AP2 Teil 1 (Fachspezifisch), Teil 2 (Fachspezifisch) und WiSo.
 
-- Alte VO (vor 2020): Klassische Struktur mit GA1 (Fachspezifisch), GA2 (Kernqualifikationen) und WiSo.
+- Alte VO (vor Winter 2021): Klassische Struktur mit GA1 (Fachspezifisch), GA2 (Kernqualifikationen) und WiSo.
 
 ### 2. Prüfungssimulation zusammenstellen
 
@@ -60,4 +60,4 @@ Die IT-Welt wandelt sich schnell, und Prüfungsfragen auch! Hilf mit, die Sammlu
 - Feedback? Schreib uns in den Discussions.
 
 
-Viel Erfolg bei der AP2!
+### **Viel Erfolg bei der AP2!**
